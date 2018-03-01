@@ -1,3 +1,10 @@
+/*
+Author:  Hiram R. Villarreal.
+Date: March 1, 2018
+Complete SMS_Alarma_Casa code and instructions are available on my github repo at http://github.com/hiramvillarreal/rele-alarmsim900
+*/
+
+
 #include <SoftwareSerial.h>
 
 //Libraries needed
