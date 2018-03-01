@@ -1,10 +1,11 @@
 # rele-alarmsim900
 A simple SIM900 with PIR alarm notification and relay control via sms
 
-Please dwnload library and test code example at:
+Please download and install library with  test code first:
 
 http://www.tinyosshop.com/datasheet/GSM_GPRS_GPS_Shield_GSMSHIELD.rar
 
+Product info:
 https://www.tinyosshop.com/arduino-gsm-shield
 
 Pin usage on library:
